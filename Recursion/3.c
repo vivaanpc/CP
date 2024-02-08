@@ -6,7 +6,7 @@ void reverse (char *str){
     }
 }
 int main(){
-    char a[] = "deepak sir ioi";
+    char a[] = "Deepak Sir IOI";
     reverse (a);
     return 0;
 }
